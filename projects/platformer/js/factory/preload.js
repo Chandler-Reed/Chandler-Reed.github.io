@@ -3,7 +3,7 @@
     window.opspark = window.opspark || {};
     let opspark = window.opspark;
     
-    // TODO : Load config for url //
+    // TODO : Load config for url //yuh.jpg
     opspark.preload = function (game) {
         game.load.image('cannon', './asset/cannon.png');
         game.load.image('projectile', './asset/projectile.png');
