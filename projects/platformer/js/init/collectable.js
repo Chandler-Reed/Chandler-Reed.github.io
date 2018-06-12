@@ -42,7 +42,7 @@
         collectable.create(type.steve, 500, 170, 6, 0.7);
         collectable.create(type.steve, 600, 170, 6, 0.7);
         collectable.create(type.steve, 700, 170, 6, 0.7);
-        collectable.create(type.db, 800, 170, 6, 0.7);
+        collectable.create(type.db, 700, 200, 6, 0.7);
         collectable.create(type.kennedi, 730, 130, 50, 0.93);
         
         
